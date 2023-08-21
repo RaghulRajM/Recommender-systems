@@ -1,2 +1,3 @@
 # Recommender-systems
-The naive recommender was taken from https://www.youtube.com/watch?v=GWFC2_9_iVk tutorial.
+The is a naive recommender system! We may build on to it by using content based or collaborative filtering methods!
+To make it even better, we may use wide and deep model!!!
